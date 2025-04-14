@@ -1,6 +1,5 @@
 ---
 title: "ECNM Research project"
-author: "Bryan Calderon"
 format: html
 editor: visual
 ---
